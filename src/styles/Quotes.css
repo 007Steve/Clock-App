@@ -1,0 +1,20 @@
+.quotes {
+  width: 500px;
+  margin-left: 20px;
+}
+.quotes-info-container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.quotes-p {
+  width: 100%;
+  line-height: 20px;
+}
+.quotes-refresh {
+  height: 20px;
+  cursor: pointer;
+}
+.quotes-author {
+  margin-top: 15px;
+}
